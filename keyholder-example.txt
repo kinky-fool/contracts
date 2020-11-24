@@ -4,11 +4,14 @@ submissive:   <name>
 Game begins:    <start>
 Game duration:  2 weeks
 
-This agreement may be terminated at any time, should it be deemed necessary.
-Communication between the Dominant and submissive shall be via Signal, text messages, other electronic chat, or by phone.
-This agreement may be renegotiated should the need to revise the contract arise before the expiration date.
-This agreement is non-exclusive.
-Play may be initiated by either party using the call and response "Play?" "Yes."
+- This agreement may be terminated at any time, should it be deemed necessary.
+- Communication between the Dominant and submissive shall be via Signal,
+  text messages, other electronic chat, or by phone.
+- This agreement may be renegotiated should the need to revise the contract
+  arise before the expiration date.
+- This agreement is non-exclusive.
+- Play may be initiated by either party using the call "Play?", and the other
+  responding "Yes."
 
 The Dominant:
   Responsibilities:
