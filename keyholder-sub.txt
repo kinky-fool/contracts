@@ -1,37 +1,34 @@
-Dominant:     <name>
-submissive:   <name>
+Dominant:       <name>
+submissive:     <name>
 
 Game begins:    <start>
 Game duration:  2 weeks
+Scope of play:  online / phone
 
-- This agreement may be terminated at any time, should it be deemed necessary.
-- Communication between the Dominant and submissive shall be via Signal,
-  text messages, other electronic chat, or by phone.
-- This agreement may be renegotiated should the need to revise the contract
-  arise before the expiration date.
-- This agreement is non-exclusive.
-- Play may be initiated by either party using the call "Play?", and the other
-  responding "Yes."
+- Contract may be revoked, renegotiated and revised, or renewed at any time.
+- Contract is non-exclusive; any party may have other agreements.
+- Play may be initiated by any party with the call "Play?", and response "Yes."
 
 The submissive:
   Expectations of the Dominant:
-    - Respects sub boundaries and limits (see below)
-    - Decides when the submissive may orgasm, and how
-    - Decides if the submissive may touch themselves for pleasure
-    - Teases the submissive sexually
+    - Respects the sub's boundaries and limits (see below)
+    - Decides when the sub may orgasm, and how
+    - Decides if the sub may pleasure themselves
+    - Teases the sub sexually
     - Uses hope of orgasm to motivate good behavior and goal achievement
-    - Pushes the submissive to achieve their goals*
-    - Punishes the submissive for misbehavior (see below)
-    - Treats the submissive with kindness, patience and compassion*
-    - Communicates with the submissive at least once every 3 days
-    - May interrogate the submissive for a progress report*
-    - Permits the submissive to orgasm at least every 14 days
-    - Rewards sub a minimum of once a week (see Sub Rewards below)
+    - Pushes the sub to achieve their goals*
+    - Punishes the sub for misbehavior (see below)
+    - Treats the sub with kindness, patience and compassion*
+    - Communicates with the sub at least once every 3 days
+    - May interrogate the sub for a progress report*
+    - Permits the sub to orgasm at least once every 3 days
+    - Rewards the sub a minimum of once a week (see below)
 
   Safeword: "Oranges"
 
   Boundaries:
-    - respect personal time
+    - no penetration (vaginal/anal)
+    - respect the sub's personal time
     - no permanent marks
     - no blackmail/doxxing
     - public play / involvement of those outside this contract
@@ -45,6 +42,7 @@ The submissive:
     - no ghosting
     - no money
     - no killing the sub
+    - no castrating the sub
     - no involving my family in play
 
   Soft Limits:
@@ -57,13 +55,14 @@ The submissive:
 
   Example Punishments:
     - "Time out" from play discussion
-    - Paddling submissive's balls
+    - Paddling the sub's balls
     - Icy Hot for lube
     - Revoking permission to pleasure self
     - No porn, or specific porn media
     - Eat cum
     - Piercing for serious chastity
     - Denied reward(s)
+    - Ruined orgasm
 
   Example Rewards:
     - Edging
